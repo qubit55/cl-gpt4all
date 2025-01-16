@@ -1,4 +1,4 @@
-# Cl-Gpt4all
+# cl-gpt4all
 
 ## Usage
 
